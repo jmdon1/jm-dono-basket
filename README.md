@@ -1,4 +1,5 @@
 **CODING ASSIGNMENT** 
+
 Write a program and associated unit tests that can price a basket of goods, accounting for special offers. 
 
 The goods that can be purchased, which are all priced in GBP, are: 
